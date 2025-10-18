@@ -1,5 +1,5 @@
 # tugas-ips
-ini hanya tugas ips biasa, jika terjadi bug atau error
+ini hanya tugas ips biasa, jika terjadi bug atau error mohon maaf
 <!DOCTYPE html>
 <html lang="id">
 <head>
